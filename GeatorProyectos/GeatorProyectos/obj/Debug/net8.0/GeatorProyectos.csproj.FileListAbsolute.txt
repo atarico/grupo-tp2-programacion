@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\bin\Debug\net8.0\GeatorProyectos.exe
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\bin\Debug\net8.0\GeatorProyectos.deps.json
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\bin\Debug\net8.0\GeatorProyectos.runtimeconfig.json
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\bin\Debug\net8.0\GeatorProyectos.dll
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\bin\Debug\net8.0\GeatorProyectos.pdb
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\obj\Debug\net8.0\GeatorProyectos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\obj\Debug\net8.0\GeatorProyectos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\obj\Debug\net8.0\GeatorProyectos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\obj\Debug\net8.0\GeatorProyectos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\obj\Debug\net8.0\GeatorProyectos.sourcelink.json
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\obj\Debug\net8.0\GeatorProyectos.dll
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\obj\Debug\net8.0\refint\GeatorProyectos.dll
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\obj\Debug\net8.0\GeatorProyectos.pdb
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\obj\Debug\net8.0\GeatorProyectos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\test\grupo-tp2-programacion\GeatorProyectos\GeatorProyectos\obj\Debug\net8.0\ref\GeatorProyectos.dll
