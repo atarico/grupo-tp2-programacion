@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeatorProyectos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f59d1f7000c862044accbec324d53a208e085104")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12bb980657ffd3347b6e284f9132a8e2ee864c0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeatorProyectos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeatorProyectos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
