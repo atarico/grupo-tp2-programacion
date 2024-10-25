@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\GeatorProyectos.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\GeatorProyectos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\GeatorProyectos.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\GeatorProyectos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\GeatorProyectos.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\GeatorProyectos.csproj",
         "projectName": "GeatorProyectos",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\GeatorProyectos.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\GeatorProyectos.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
