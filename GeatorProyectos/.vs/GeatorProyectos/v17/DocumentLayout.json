@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D8ABB4C1-C855-4F85-BB61-9ADD0CA59674}|GeatorProyectos\\GeatorProyectos.csproj|c:\\users\\usuario\\desktop\\test\\grupo-tp2-programacion\\geatorproyectos\\grupo-tp2-programacion\\geatorproyectos\\geatorproyectos\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABB4C1-C855-4F85-BB61-9ADD0CA59674}|GeatorProyectos\\GeatorProyectos.csproj|solutionrelative:geatorproyectos\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8ABB4C1-C855-4F85-BB61-9ADD0CA59674}|GeatorProyectos\\GeatorProyectos.csproj|c:\\users\\usuario\\desktop\\test\\grupo-tp2-programacion\\geatorproyectos\\grupo-tp2-programacion\\geatorproyectos\\geatorproyectos\\estadoproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8ABB4C1-C855-4F85-BB61-9ADD0CA59674}|GeatorProyectos\\GeatorProyectos.csproj|solutionrelative:geatorproyectos\\estadoproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\Proyecto.cs",
+              "RelativeDocumentMoniker": "GeatorProyectos\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\Proyecto.cs",
+              "RelativeToolTip": "GeatorProyectos\\Proyecto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:19:20.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EstadoProyecto.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\EstadoProyecto.cs",
               "RelativeDocumentMoniker": "GeatorProyectos\\EstadoProyecto.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\EstadoProyecto.cs",
               "RelativeToolTip": "GeatorProyectos\\EstadoProyecto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T00:32:53.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\test\\grupo-tp2-programacion\\GeatorProyectos\\grupo-tp2-programacion\\GeatorProyectos\\GeatorProyectos\\Program.cs",
               "RelativeDocumentMoniker": "GeatorProyectos\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "GeatorProyectos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T13:55:49.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T13:55:49.241Z"
             }
           ]
         }
